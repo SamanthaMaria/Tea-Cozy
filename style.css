@@ -1,9 +1,41 @@
-/*Universal Style*/
-html {
+/*Universal Styles*/
+
+body {
     font-family: Helvetica, sans-serif;
     font-size: 22px;
     color: seashell;
     background-color: black;
-    opacity: 0.9;
     text-align: center;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+/*Header Section*/
+
+
+
+/*Main Section*/
+
+
+
+/*Mission*/
+
+
+
+/*Featured Teas*/
+.item img {
+    height: 200px;
+    width: 300px;
+}
+
+
+/*Locations*/
+
+
+
+/*Footer Section*/
